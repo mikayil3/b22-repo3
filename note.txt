@@ -13,3 +13,6 @@ Now our work will continue locally
 2. commited the change to local repo
 3. we want this chamge to be reflected in remote repository so we Pushed local commits to remote repository using push origin button
 4. Observe it has been added in your repository under GitHub.com 
+
+
+Save : contral + s 
