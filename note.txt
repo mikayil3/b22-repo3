@@ -16,3 +16,6 @@ Now our work will continue locally
 
 
 Save : contral + s 
+
+
+we do not have to one commit at a time
